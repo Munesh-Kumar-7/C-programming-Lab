@@ -1,2 +1,6 @@
 # C-programming-Lab
-C-language learning proccess
+- **PF Fall 2025**
+- *CS*
+- ~~Test Case~~
+- (Java,C,C#)
+- [Program]
