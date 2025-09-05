@@ -2,5 +2,7 @@
 - **PF Fall 2025**
 - *CS*
 - ~~Test Case~~
-- (Java,C,C#)
-- [Program]
+- ```git status```
+- [ ] PF
+- [ ] ICT
+- [ ] FE
